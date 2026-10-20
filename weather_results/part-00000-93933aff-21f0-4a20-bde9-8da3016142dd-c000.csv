@@ -1,0 +1,7 @@
+weather_condition,total_flights,delayed_flights_15min_plus,average_departure_delay_min,delay_rate_percent
+Thunderstorm,4908,1345,15.0,27.4
+Fog,8029,2176,14.63,27.1
+Rain,13016,3438,14.42,26.41
+Clear,48046,8268,9.86,17.21
+Cloudy,19862,3350,9.64,16.87
+Crosswind,6139,1025,9.8,16.7

@@ -1,0 +1,9 @@
+airline,total_flights,delayed_flights_15min_plus,average_departure_delay_min,delay_rate_percent
+SpiceJet,8055,1651,11.65,20.5
+Akasa Air,5915,1181,11.61,19.97
+Star Air,2071,413,11.19,19.94
+Air India,20052,3950,11.02,19.7
+Vistara (historical),3920,769,11.13,19.62
+IndiGo,48035,9341,10.9,19.45
+Air India Express,7977,1550,11.05,19.43
+Alliance Air,3975,747,10.66,18.79
